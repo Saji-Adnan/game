@@ -1,0 +1,2 @@
+[02-Nov-2021 11:01:57 UTC] PHP Deprecated:  Required parameter $target_id follows optional parameter $msgType in /home/linekwdemo3/public_html/care/app/Http/helpers.php on line 205
+[02-Nov-2021 11:01:57 UTC] PHP Deprecated:  Required parameter $message follows optional parameter $msgType in /home/linekwdemo3/public_html/care/app/Http/helpers.php on line 205
